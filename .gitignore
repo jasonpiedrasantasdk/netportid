@@ -1,0 +1,18 @@
+# Binaries
+/netportid
+/netportid.exe
+*.test
+*.out
+
+# Go build/cache artifacts
+/bin/
+/dist/
+
+# Editor/OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
